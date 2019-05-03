@@ -13,5 +13,5 @@
 
 $router->get('/', function (){
     $message = "SBA Hackathon API";
-    return $messgae;
+    return $message;
 });
